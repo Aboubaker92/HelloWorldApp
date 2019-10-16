@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Setze Listener
-        IDKnopf.setOnClickListener(new View.OnClickListener() {
+        //IDKnopf.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View view) {
                 //Editierbares Textfeld für die erste Zahl
