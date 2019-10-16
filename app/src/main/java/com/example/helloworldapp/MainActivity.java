@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //Setze Listener
         //IDKnopf.setOnClickListener(new View.OnClickListener() {
 
-            public void onClick(View view) {
+            //public void onClick(View view) {
                 //Editierbares Textfeld für die erste Zahl
                 EditText IDZahlEins = (EditText) findViewById(R.id.IDZahlEins);
                 //Editierbares Textfeld für die zweit Zahl
